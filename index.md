@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "AIST hw"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. bye
